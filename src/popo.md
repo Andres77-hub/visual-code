@@ -1,2 +1,2 @@
-a=2+2;
-console.log(a);
+hola mundo
+como estan
